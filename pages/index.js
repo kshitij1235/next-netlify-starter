@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my worst website!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          listeren here you  <code>pages/index.js</code>
         </p>
       </main>
 
